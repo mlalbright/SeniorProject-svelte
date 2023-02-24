@@ -27,7 +27,7 @@
             <Input type="password" name="password" placeholder="••••••••••" required />
           </Label>
           <Label class="space-y-2">
-            <span>Organization Passcode</span>
+            <span>Organization Pass</span>
             <Input type="password" name="Organizationpasscode" placeholder="••••••••••" required />
           </Label>
           <div class="flex items-start">
